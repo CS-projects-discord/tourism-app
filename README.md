@@ -1,4 +1,12 @@
-# tourism-app
-Group project .... making an app usig android studio
+# Tourism-app
+Group project .... making an app using android studio
 
-all code must be properly formatted and commented
+All code must be properly formatted and commented
+
+Feel free to ask any question!
+
+# Participants
+
+Aidan
+
+
